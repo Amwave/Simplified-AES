@@ -99,9 +99,12 @@ This function multiplies a nibble with 9 in gf(16) modulo x^4 + x + 1 using a lo
 ## Sample run :
 
 
-
+### Client
 
 ![image](https://user-images.githubusercontent.com/55701343/111283959-a8fe7780-8665-11eb-9ad6-3efaf42ec08e.png)
+
+
+### Server
 
 ![image](https://user-images.githubusercontent.com/55701343/111283986-b156b280-8665-11eb-8e1b-f4457debd29e.png)
 
