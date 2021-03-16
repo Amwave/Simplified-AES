@@ -96,6 +96,8 @@ This function multiplies a nibble with 9 in gf(16) modulo x^4 + x + 1 using a lo
 
 ​This function multiplies a nibble with 9 in gf(16) modulo x^4 + x + 1 using a lookup table.
 
+## Sample run :
+
 
 
 
