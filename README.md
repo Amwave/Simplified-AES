@@ -95,3 +95,11 @@ This function multiplies a nibble with 9 in gf(16) modulo x^4 + x + 1 using a lo
 ## 6. String multiply2(String k)
 
 ​This function multiplies a nibble with 9 in gf(16) modulo x^4 + x + 1 using a lookup table.
+
+
+
+
+![image](https://user-images.githubusercontent.com/55701343/111283959-a8fe7780-8665-11eb-9ad6-3efaf42ec08e.png)
+
+![image](https://user-images.githubusercontent.com/55701343/111283986-b156b280-8665-11eb-8e1b-f4457debd29e.png)
+
